@@ -201,38 +201,11 @@ If the app is tiny (1–2 screens):
 ---
 
 ## 📸 Demo / Screenshots
-![App Landing Screen](https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/preview.png)
+<img src="https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/preview.png"
+     width="320"
+     height="600"
+     alt="App Landing Screen Preview" />
 
-
-## 📁 Portfolio tips (how to present this repo)
-- Add this README.md to the root of a sample project to document architecture decisions.
-- Link to a small sample app repository that follows this structure.
-- Include demo GIFs or screenshots (store them in docs/assets) and reference them from this README.
-- Add a short "What I learned" or "Trade-offs considered" section per project to show decision-making.
-
----
-
-## 📝 Example "Getting started" (add to repo)
-```bash
-# Clone
-git clone https://github.com/<you>/<repo>.git
-cd <repo>
-
-# Open in Android Studio and build
-# Run unit tests
-./gradlew test
-# Run instrumented tests
-./gradlew connectedAndroidTest
-```
-
----
-
-## ⚖️ Trade-offs & rationale (brief)
-- Clean Architecture adds indirection but improves long-term maintainability.
-- UseCases increase clarity for business logic; skip them if they add noise for trivial apps.
-- Hilt simplifies wiring but introduces learning overhead; replace with manual DI for micro-samples.
-
----
 
 ## Maintained by
 **Ramesh A.**  
