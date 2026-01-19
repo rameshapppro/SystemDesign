@@ -1,5 +1,5 @@
 # 🧭 ![Android System Design](https://img.shields.io/badge/Android%20System%20Design-%20-0D6EFD?style=flat&logo=android&logoColor=white) Android System Design for a Small App
-A concise, production-oriented guide describing architecture, structure, and rationale for a small-to-medium Android application. Use this as a portfolio README to explain design decisions, onboarding notes, and where to start implementation and tests.
+A concise, production-oriented guide describing architecture, structure, and rationale for a small-to-medium Android application. Use this as a portfolio README to explain design decisions, onboard[...] 
 
 ---
 
@@ -199,9 +199,9 @@ If the app is tiny (1–2 screens):
 ---
 
 ## 📸 Demo / Screenshots
-Include screenshots or short GIFs to demonstrate UX patterns and features. Below is an example screenshot you can include in the repo to showcase the profile screen with a refresh feature. Add this image to your repo (e.g., docs/assets/profile-refresh.png) and reference it from the README.
+Include screenshots or short GIFs to demonstrate UX patterns and features. Below is an example screenshot you can include in the repo to showcase the profile screen with a refresh feature. Add the view preview below:
 
-![App profile update with refresh feature](image1)
+![App profile update with refresh feature](https://github.com/user-attachments/assets/4534fe20-9459-4f80-8733-7ea3dd5f7a76)
 
 Caption: App profile update with refresh UI state (loading indicator, profile display, pull-to-refresh / refresh button states).
 
@@ -238,13 +238,6 @@ cd <repo>
 - Clean Architecture adds indirection but improves long-term maintainability.
 - UseCases increase clarity for business logic; skip them if they add noise for trivial apps.
 - Hilt simplifies wiring but introduces learning overhead; replace with manual DI for micro-samples.
-
----
-
-If you want, I can:
-- optimize and add the screenshot file to the repo (docs/assets/profile-refresh.png) and update relative paths,
-- generate a one-page portfolio variant with badges and contact info,
-- or scaffold a minimal sample project (with a fake ApiService, Hilt wiring, and one ViewModel) and open a PR with these changes.
 
 ---
 
