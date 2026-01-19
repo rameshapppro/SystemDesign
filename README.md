@@ -201,10 +201,22 @@ If the app is tiny (1–2 screens):
 ---
 
 ## 📸 Demo / Screenshots
-<img src="https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/preview.png"
-     width="320"
-     height="600"
-     alt="App Landing Screen Preview" />
+## 🎥 App Demo
+
+<p align="center">
+  <a href="https://github.com/rameshapppro/SystemDesign/blob/main/app_landing_video.mp4">
+    <img
+      src="https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/preview.png"
+      width="320"
+      alt="App Landing Screen Preview"
+    />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Click the image to play the demo video
+</p>
+
 
 
 ## Maintained by
