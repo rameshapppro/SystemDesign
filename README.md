@@ -201,26 +201,8 @@ If the app is tiny (1–2 screens):
 ---
 
 ## 📸 Demo / Screenshots
-Include screenshots or short GIFs to demonstrate UX patterns and features. Below is an example screenshot you can include in the repo to showcase the profile screen with a refresh feature. Add the view preview and video preview below:
+![App Landing Screen](https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/preview.png)
 
-![App profile update with refresh feature](https://github.com/user-attachments/assets/4534fe20-9459-4f80-8733-7ea3dd5f7a76)
-
-<!-- Embedded video preview using repository file -->
-
-<video controls width="720" preload="metadata" poster="">
-  <source src="https://raw.githubusercontent.com/rameshapppro/SystemDesign/main/Screen_recording_20260119_140737.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can download the video from the repository: 
-  <a href="https://github.com/rameshapppro/SystemDesign/blob/main/Screen_recording_20260119_140737.mp4">Screen_recording_20260119_140737.mp4</a>
-</video>
-
-
-Caption: App profile update with refresh UI state (loading indicator, profile display, pull-to-refresh / refresh button states).
-
-Notes:
-- Keep images small and optimized for web.
-- Provide alt text and brief captions to describe what the screenshot demonstrates (avoid identifying people in images).
-
----
 
 ## 📁 Portfolio tips (how to present this repo)
 - Add this README.md to the root of a sample project to document architecture decisions.
