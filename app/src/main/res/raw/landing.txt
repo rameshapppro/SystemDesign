@@ -1,0 +1,1 @@
+Placeholder landing file for onboarding GIF. Replace with your actual landing.gif binary in res/raw/landing.gif
